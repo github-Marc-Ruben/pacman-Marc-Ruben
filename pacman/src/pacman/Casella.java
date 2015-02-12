@@ -1,5 +1,5 @@
 package pacman;
-//SOC el RUBEN i estic borracho i trrempat i coloocat
+//SOC el RUBEN i si veus aixo marc es que s'ha pujat be
 /**
  * Classe: Casella
  * Descripció: Aquesta classe representa una casella del tauler del joc del Pacman
